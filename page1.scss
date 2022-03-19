@@ -1,0 +1,20 @@
+$yellowText : yellow;
+
+body {
+  
+  .yellow {
+    color: $yellowText;
+  }
+
+  .first {
+    background-color: green;
+  }
+
+  .second {
+    background-color: blue;
+  }
+
+  .third {
+    background-color: red;
+  }
+}
