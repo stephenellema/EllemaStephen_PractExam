@@ -1,0 +1,19 @@
+p {
+  padding: 10px;
+}
+
+.border {
+  border-style: dotted;
+  margin-bottom: 20px;
+  border-color: #2d31fa;
+  border-width: 3px;
+}
+
+.background {
+  background-color: #2d31fa;
+}
+
+.color {
+  color: #2d31fa;
+}
+/*# sourceMappingURL=page4.css.map */

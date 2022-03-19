@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,CAAC,CAAC;EACD,OAAO,EAAE,IAAI;CACb;;AACD,AAAA,OAAO,CAAC;EACP,YAAY,EAAE,MAAM;EACpB,aAAa,EAAE,IAAI;EACnB,YAAY,EAPL,OAAO;EAQd,YAAY,EAAE,GAAG;CACjB;;AAED,AAAA,WAAW,CAAC;EACX,gBAAgB,EAZT,OAAO;CAad;;AAED,AAAA,MAAM,CAAC;EACN,KAAK,EAhBE,OAAO;CAiBd",
+    "sources": [
+        "page4.scss"
+    ],
+    "names": [],
+    "file": "page4.css"
+}
